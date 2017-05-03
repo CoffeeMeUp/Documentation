@@ -2,7 +2,7 @@
 
 ## Notas gerais
 
-- Todas as mensagens enviadas devem ser enviadas seguidas de "\r\n" ao final do comando.
+#### Todas as mensagens enviadas devem ser enviadas seguidas de "\r\n" ao final do comando.
 
     Exemplo: O comando ```hora:07:03\r\n``` é válido, o comando ```hora:07:30``` não.
 
