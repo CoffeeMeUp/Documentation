@@ -20,6 +20,8 @@
   comando ```hora:07:30\r\n```. Comandos como ```hora: 07:30\r\n```, ```hora:7:30\r\n``` ou
   ```hora:07:30am\r\n``` são todos INVÁLIDOS.
 
+---
+
 ### CAFE ON/OFF
 
   Liga ou desliga a cafeteira no instante que recebido. NÃO enviar comandos de ligar e
